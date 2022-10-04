@@ -1,1 +1,1 @@
-* 28/09/2022 [30 mins] Set up Github repository
+* 28/09/2022 [2 hours] Set up Github repository + research relation extraction
