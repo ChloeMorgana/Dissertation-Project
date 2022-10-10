@@ -18,3 +18,5 @@
 * 09/10/2022 [3 hours] Writing summaries for papers and deciding which papers are relevant
 
 ## Week 3
+
+* 10/10/2022 [3 hours] Looked at more papers, focussing more on deep learning

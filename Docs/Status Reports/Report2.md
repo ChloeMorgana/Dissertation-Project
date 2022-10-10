@@ -9,14 +9,19 @@
 * Looked at [BioC Library](https://bioc.sourceforge.net/)
 * Read [Unsupervised Text Mining Method for Relation Extraction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102039#s1)
 * Read [Biomedical Relation Extraction](https://www.hindawi.com/journals/cmmm/2014/298473/)
+* Read about [DNorm and pLTR](https://academic.oup.com/bioinformatics/article/29/22/2909/312804)
+* Read about [KGen](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01341-5)
+* Read about [A neural joint model for entity and relation extraction from biomedical text](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1609-9)
 
 ## Findings
 
 * Discovered several corpora, including AImed, BioInfer, HPRD50, IEPA, and LLL
-* Unsupervised approach seems to be more beneficial compared to other methods
-
-
+* I did more research on CDR compared to DrugProt
+* NLP faces problems such as negative sentences, with potential solutions lying in pattern-based approaches.
+* Low performance of existing systems can be attributed to lack of annotated data, which could be resolved by using semi supervised approaches.
+* Pipeline models tend to suffer from error propagation and not able to utilise interactions between subtasks, with potential solutions in neural joint models.
 
 ## Questions
 
 * What kind of technologies would I be permitted to use?
+* Are there other research papers that I might find useful?
