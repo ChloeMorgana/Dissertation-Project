@@ -14,3 +14,7 @@
 * 03/10/22 [20 mins] Meeting with supervisor
 * 04/10/2022 [3 hours] Reformatting Github repository, editing status report, reading research papers
 * 06/10/2022 [1 hour] Reformatting timelog, reading research papers
+* 07/10/2022 [4 hours] Sorting Python issues, exploring CDR corpus, research papers
+* 09/10/2022 [3 hours] Writing summaries for papers and deciding which papers are relevant
+
+## Week 3
