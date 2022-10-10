@@ -21,7 +21,15 @@
 * Low performance of existing systems can be attributed to lack of annotated data, which could be resolved by using semi supervised approaches.
 * Pipeline models tend to suffer from error propagation and not able to utilise interactions between subtasks, with potential solutions in neural joint models.
 
+## Potential Technologies for Pipeline
+
+CDR corpus: Dataset
+BioC: Text interchange format
+Spacy: Preprocessing, NER
+DNorm: Normalise disease names
+Pytorch
+
 ## Questions
 
-* What kind of technologies would I be permitted to use?
+* What other technologies would you recommend?
 * Are there other research papers that I might find useful?

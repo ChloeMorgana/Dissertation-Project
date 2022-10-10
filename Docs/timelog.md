@@ -19,4 +19,4 @@
 
 ## Week 3
 
-* 10/10/2022 [3 hours] Looked at more papers, focussing more on deep learning
+* 10/10/2022 [6 hours] Looked at more papers, added to status report
