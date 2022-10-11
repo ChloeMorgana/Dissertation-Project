@@ -12,6 +12,7 @@
 * Read about [DNorm and pLTR](https://academic.oup.com/bioinformatics/article/29/22/2909/312804)
 * Read about [KGen](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01341-5)
 * Read about [A neural joint model for entity and relation extraction from biomedical text](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1609-9)
+* Played around with the CDR corpus
 
 ## Findings
 
@@ -23,11 +24,11 @@
 
 ## Potential Technologies for Pipeline
 
-CDR corpus: Dataset
-BioC: Text interchange format
-Spacy: Preprocessing, NER
-DNorm: Normalise disease names
-Pytorch
+* CDR corpus: Dataset
+* BioC: Text interchange format
+* Spacy: Preprocessing, NER
+* DNorm: Normalise disease names
+* Pytorch
 
 ## Questions
 
