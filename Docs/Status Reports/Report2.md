@@ -34,3 +34,4 @@
 
 * What other technologies would you recommend?
 * Are there other research papers that I might find useful?
+* Can you give me more information on BioC?

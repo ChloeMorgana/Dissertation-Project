@@ -1,4 +1,5 @@
 from bioc import biocxml
+import spacy
 
-with open("CDR", 'r') as fp:
+with open("CDR.xml", 'r') as fp:
     collection = biocxml.load(fp)
