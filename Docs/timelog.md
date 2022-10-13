@@ -11,7 +11,7 @@
 
 ## Week 2
 
-* 03/10/22 [20 mins] Meeting with supervisor
+* 03/10/22 [0.5 hours] Meeting with supervisor
 * 04/10/2022 [3 hours] Reformatting Github repository, editing status report, reading research papers
 * 06/10/2022 [1 hour] Reformatting timelog, reading research papers
 * 07/10/2022 [4 hours] Sorting Python issues, exploring CDR corpus, research papers
@@ -20,3 +20,5 @@
 ## Week 3
 
 * 10/10/2022 [6 hours] Looked at more papers, added to status report
+* 11/10/2022 [1.5 hours] Meeting with supervisor, writing questions for supervisor
+* 12/10/2022 [1 hour] Researching BERT
