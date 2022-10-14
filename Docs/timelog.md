@@ -22,3 +22,4 @@
 * 10/10/2022 [6 hours] Looked at more papers, added to status report
 * 11/10/2022 [1.5 hours] Meeting with supervisor, writing questions for supervisor
 * 12/10/2022 [1 hour] Researching BERT
+* 14/10/2022 [3 hours] Making a colab notebook, loading dataset, investigating PubMedBERT
