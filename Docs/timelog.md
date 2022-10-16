@@ -23,3 +23,4 @@
 * 11/10/2022 [1.5 hours] Meeting with supervisor, writing questions for supervisor
 * 12/10/2022 [1 hour] Researching BERT
 * 14/10/2022 [3 hours] Making a colab notebook, loading dataset, investigating PubMedBERT
+* 16/10/2022 [5 hours] Researching DrugProt implementations, looking at BERT documentation, applying research to DrugProt
