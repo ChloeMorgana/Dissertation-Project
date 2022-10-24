@@ -28,3 +28,10 @@
 ## Week 4
 
 * 17/10/2022 [4 hours] Experimenting with pandas dataframes
+* 18/10/2022 [0.5 hours] Meeting with supervisor and writing up notes
+* 19/10/2022 [2 hours] Dissecting code from the BERT embeddings blog and understanding it
+* 22/10/2022 [3 hours] Reminding myself how contextual word embeddings work
+
+## Week 5
+
+* 24/10/2022 [6 hours] Researching the encoding step before embedding the text and beginning implementation

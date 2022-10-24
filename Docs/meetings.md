@@ -13,3 +13,10 @@
     * I also need to investigate different error analysis techniques in order to observe different errors in the model I create.
     * Jake suggested I gain an account to use a GPU machine in order to process large amounts of data and not overwhelm my laptop, and also suggested that I use either Google Colab or Kaggle to write my code with.
     * Later that day, I was sent some links to Google Colab notebooks that he created explaining how to load the data for each dataset, in addition to a blog about working with contextual vectors with HuggingFace.
+
+## Week 4
+* 18/10/22 [20 mins]
+    * I asked Jake about formatting the dataset into a pandas dataframe given a number of nested dictionaries. We discussed the pros and cons of using pandas to format data in a nice way. It tends to be good in a more general sense, however it doesn't provide much benefit to the specific requirements of this task.
+    * I asked Jake for more information about the differences between BioBERT and PubMedBERT, and he explained that BioBERT was pretrained using generic data from the English language, then fine-tuned using PubMed articles, whilst PubMedBERT was pretrained and fine-tuned using PubMed atricles.
+    * I then asked about whether or not I should use PubMedBERT pretrained on abstracts or the entire text. He said that the abstract version might be good because it might pick up on language specific to abstracts, however the full text may provide more context overall and to experiment.
+    * Jake then advised me to be aware of how the tensors change size depending on the number of input dimensions.
