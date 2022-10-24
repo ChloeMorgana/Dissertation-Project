@@ -22,8 +22,7 @@
 
 ## Questions
 
-* Why are the embeddings size 768?
 * I noticed that one implementation used tags before each drug and protein e.g. @DRUG$. How does this work with BERT? Surely you would need to specify the ending of the entity?
-* Are relations bidirectional? As in can we have a chemical A that relates to a gene A and a gene B that relates to a chemical B? I ask because a lot of implementations take head entity as chemical and tail entity as gene.
+* Are relations bidirectional? As in can we have Chemical RELATION Gene and Gene RELATION chemical? I ask because a lot of implementations take head entity as chemical and tail entity as gene.
 * For the classification part, I've noticed people using a softmax layer. What is this?
 * Why would the classification layer be applied specifically to the CLS token?
