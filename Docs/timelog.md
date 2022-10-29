@@ -34,4 +34,7 @@
 
 ## Week 5
 
-* 24/10/2022 [6 hours] Researching the encoding step before embedding the text and beginning implementation
+* 24/10/2022 [8 hours] Researching the encoding step before embedding the text and beginning implementation
+* 29/10/2022 [3 hours] Writing a function that tags entities in text and converts into embeddings
+
+## Week 6

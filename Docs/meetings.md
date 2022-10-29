@@ -20,3 +20,10 @@
     * I asked Jake for more information about the differences between BioBERT and PubMedBERT, and he explained that BioBERT was pretrained using generic data from the English language, then fine-tuned using PubMed articles, whilst PubMedBERT was pretrained and fine-tuned using PubMed atricles.
     * I then asked about whether or not I should use PubMedBERT pretrained on abstracts or the entire text. He said that the abstract version might be good because it might pick up on language specific to abstracts, however the full text may provide more context overall and to experiment.
     * Jake then advised me to be aware of how the tensors change size depending on the number of input dimensions.
+
+## Week 5
+* 25/10/2022 [- mins]
+    * The meeting this week was conducted via email, therefore wasn't under any particular timeframe.
+    * This meeting involved Jake answering some of my concerns with the encoding step of my implementation, such as how BERT recognises tagged text e.g. Tagging @DRUG$ and @Prot$, and how that would behave differently compared to using start and end tags within the text to identify the beginning and the end of each entity.
+    * I then asked if relations were bidirectional within the text and if it mattered which one was classed as the head entity and which is classed as the tail entity. He said to keep it consistent and that they aren't generally bidirectional.
+    * I then asked why the classification layer should be specifically applied to the CLS token, and Jake explained how there are several ways to classify sentences, either by averaging all of the context vectors within the sentence, or by training the CLS token to capture meaning relevant to what you are trying to classify.
