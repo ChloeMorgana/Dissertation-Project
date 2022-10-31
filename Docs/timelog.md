@@ -38,3 +38,5 @@
 * 29/10/2022 [3 hours] Writing a function that tags entities in text and converts into embeddings
 
 ## Week 6
+
+* 31/10/2022 [6 hours] Experimenting with processing small amounts of data to see if everything works
