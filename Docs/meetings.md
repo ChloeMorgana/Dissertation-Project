@@ -24,6 +24,14 @@
 ## Week 5
 * 25/10/2022 [- mins]
     * The meeting this week was conducted via email, therefore wasn't under any particular timeframe.
-    * This meeting involved Jake answering some of my concerns with the encoding step of my implementation, such as how BERT recognises tagged text e.g. Tagging @DRUG$ and @Prot$, and how that would behave differently compared to using start and end tags within the text to identify the beginning and the end of each entity.
+    * This meeting involved Jake answering some of my concerns with the encoding step of my implementation, such as how BERT recognises tagged text e.g. Tagging @DRUG$ and @PROT$, and how that would behave differently compared to using start and end tags within the text to identify the beginning and the end of each entity.
     * I then asked if relations were bidirectional within the text and if it mattered which one was classed as the head entity and which is classed as the tail entity. He said to keep it consistent and that they aren't generally bidirectional.
     * I then asked why the classification layer should be specifically applied to the CLS token, and Jake explained how there are several ways to classify sentences, either by averaging all of the context vectors within the sentence, or by training the CLS token to capture meaning relevant to what you are trying to classify.
+
+## Week 6
+* 01/11/2022 [30 mins]
+    * I asked Jake if there was any benefit to using entity masking over entity marking and he said that it reduces the risk of BERT learning patterns specifically referencing the entity names.
+    * He then went on to discuss dropout, which essentially randomly removes neurons so that the transformer model learns to not be reliant on a particular neuron, promoting generalisation.
+    * I asked Jake about mention pooling and entity start methods for using embeddings and to explain them more thoroughly and he referred me to a paper explaining them in more depth.
+    * I then asked about presenting the data that I find and he said to emphasise error analysis.
+    * I asked about whether or not the embeddings are independent from one another and he said that initially they are, but as you travel down the layers they take each other into account.

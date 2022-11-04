@@ -40,3 +40,5 @@
 ## Week 6
 
 * 31/10/2022 [6 hours] Experimenting with processing small amounts of data to see if everything works
+* 01/11/2022 [1 hour] Meeting with supervisor and writing everything up
+* 04/11/2022 [4 hours] Writing entity and embedding functions and debugging
