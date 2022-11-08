@@ -35,3 +35,10 @@
     * I asked Jake about mention pooling and entity start methods for using embeddings and to explain them more thoroughly and he referred me to a paper explaining them in more depth.
     * I then asked about presenting the data that I find and he said to emphasise error analysis.
     * I asked about whether or not the embeddings are independent from one another and he said that initially they are, but as you travel down the layers they take each other into account.
+
+## Week 7
+* 08/11/2022 [30 mins]
+    * This meeting was mostly surrounding the classification step of the implementation. I asked questions about how I could arrange the entity start tags in sentences containing multiple relations, and we got onto the conversation of using transformer heads to adjust the existing neural network to train it more on the task of classifying relations.
+    * I asked about the size of the softmax vectors produced after the softmax layer and he said that it's the (batch size * the number of labels)
+    * I also asked if I would be penalised for not using branches in my repo and he said that it's fine not to use them
+    * I asked if the vectors produced from concatenating the embeddings would have to be reduced back down to 768 and he said that isn't necessary

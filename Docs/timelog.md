@@ -47,3 +47,4 @@
 ## Week 7
 
 * 07/11/2022 [4 hours] Figuring out how to add a classification layer
+* 08/11/2022 [1 hour] Supervisor meeting and writing everything up
