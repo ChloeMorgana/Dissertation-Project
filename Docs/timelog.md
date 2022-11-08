@@ -42,3 +42,8 @@
 * 31/10/2022 [6 hours] Experimenting with processing small amounts of data to see if everything works
 * 01/11/2022 [1 hour] Meeting with supervisor and writing everything up
 * 04/11/2022 [4 hours] Writing entity and embedding functions and debugging
+* 05/11/2022 [3 hours] Debugging tagging function
+
+## Week 7
+
+* 07/11/2022 [4 hours] Figuring out how to add a classification layer
