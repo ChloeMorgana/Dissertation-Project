@@ -48,3 +48,4 @@
 
 * 07/11/2022 [4 hours] Figuring out how to add a classification layer
 * 08/11/2022 [1 hour] Supervisor meeting and writing everything up
+* 09/11/2022 [3 hours] Adapting tagging function and extracting relevant text function
