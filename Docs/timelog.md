@@ -50,3 +50,4 @@
 * 08/11/2022 [1 hour] Supervisor meeting and writing everything up
 * 10/11/2022 [3 hours] Adapting tagging function and extracting relevant text function
 * 11/11/2022 [4 hours] Reduced the tagging to known relations, extracted [CLS] embeddings and researched binary classification
+* 12/11/2022 [2.5 hours] Classifying the [CLS] embeddings using logistic regression

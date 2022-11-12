@@ -1,8 +1,9 @@
 ## Work Done
 * I adapted my addEntity function to deal with sentences that contain multiple relations
 * I made my relevantText function more general
-* I researched transformer heads and existing implementations for them
-* I investigated how I can extract specific embeddings
+* I investigated how I can extract specific embeddings, and then proceeded to extract [CLS] embeddings
+* Started trying to classify them using logistic regression
+* Did a bit of research on end-to-end relation extraction
 
 ## Findings
 * I had to go about how I am tagging entities differently, since I was tagging every single mention of any chemical or gene in text instead of the ones involved in relations.
@@ -15,4 +16,6 @@
 
 ## Questions
 * Is there a way to add tokens to a pretrained tokeniser so that the elements of the tags aren't tokenised separately e.g [E1] -> [E1] instead of [E1] -> '[', 'e1', ']'?
-* Is there some sort of library where you can specify which embeddings you want to use?
+* Is there a simpler way to implement what I'm trying to do above?
+* How can I compare the predicted relations with existing relations without having to split the relations into several sentences?
+* If I am using binary classification to classify sentences with relations in, surely I wouldn't be saying at any point that there aren't relations?
