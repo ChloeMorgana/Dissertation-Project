@@ -51,3 +51,11 @@
 * 10/11/2022 [3 hours] Adapting tagging function and extracting relevant text function
 * 11/11/2022 [4 hours] Reduced the tagging to known relations, extracted [CLS] embeddings and researched binary classification
 * 12/11/2022 [2.5 hours] Classifying the [CLS] embeddings using logistic regression
+
+## Week 8
+
+* 15/11/2022 [0.5 hours] Supervisor meeting and writing everything up
+
+## Week 9
+
+* 26/11/2022 [4 hours] Adding entities to tokenizer and Figuring out how to get the labels for logistic regression

@@ -42,3 +42,14 @@
     * I asked about the size of the softmax vectors produced after the softmax layer and he said that it's the (batch size * the number of labels)
     * I also asked if I would be penalised for not using branches in my repo and he said that it's fine not to use them
     * I asked if the vectors produced from concatenating the embeddings would have to be reduced back down to 768 and he said that isn't necessary
+
+## Week 8
+* 15/11/2022 [15 mins]
+    * This meeting was to clarify certain issues I was having regarding my entity tags. The first was that I wanted to know how to create my own tokens to insert into the tokeniser. Apparently huggingface has one called add_special_tokens, which Jake said he would send me documentation for. He also suggested that I use convert_ids_to_tokens to verify that certain tokens are as intended.
+    * I then talked about how the [CLS] embeddings wouldn't represent a singular relation in several circumstances and asked what I could do to rectify this, and he said that it is just the nature of [CLS] embeddings and that I can use this as a baseline to compare my other methods with.
+    * I started talking about how several chemicals and genes can occur in one sentence, and that it wouldn't be convenient to concatenate all of the resulting vectors from these, and Jake said that I could just tag specific chemicals and genes and concatenate those.
+    * The idea is to generate candidate relations by finding every combination of chemical and gene in a sentence and finding the embeddings for these relations.
+
+## Week 9
+* No meeting this week
+
