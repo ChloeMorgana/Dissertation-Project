@@ -59,3 +59,7 @@
 ## Week 9
 
 * 26/11/2022 [4 hours] Adding entities to tokenizer and Figuring out how to get the labels for logistic regression
+
+## Week 10
+
+*28/11/2022 [7 hours] Finished CLS binary classification and started entity tag classification, added comments to colab notebook
