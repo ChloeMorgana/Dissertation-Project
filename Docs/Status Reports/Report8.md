@@ -7,11 +7,13 @@
 * Started trying to do binary classifications for entity start embeddings
 
 ## Findings
-* Got a score of around 0.7 for logistic regression for a small subset of the [CLS] embeddings
-* Had a problem with finding the labels for the specific relation.
+* Got a score of around 0.7 for logistic regression for a small subset of the [CLS] embeddings (Around 50 sentences).
+* Solved a problem concerning finding the labels for the specific relation.
+* Next time I need to get the labels for each concatenated entity start embedding and classify them.
+* I also need to perform multiclass classification for CLS and entity start embeddings
 
 ## Questions
-* When do you want the status report?
+* When do you want the progress report?
 * I noticed that my tokenizer didn't add tokens when I was using BertTokenizer rather than AutoTokenizer. Why is this?
 * Would there be any discrepancies if I were to continue using BertModel with the AutoTokenizer as opposed to AutoModel?
 * Is there a reason why my tokenizer converts all of my entity tags to lowercase despite being defined in uppercase? This doesn't seem to happen for other special tokens or in your colab example.
