@@ -53,3 +53,8 @@
 ## Week 9
 * No meeting this week
 
+## Week 10
+* 29/11/2022 [15 mins]
+    * This week primarily focused on issues with the tokenizer, which mostly boiled down to different behaviours stemming from different types of tokenizers and models.
+    * I also asked Jake when I need to give him the progress report by and he said by Christmas.
+    * I updated him with my progress and informed him that I now have a functional pipeline.

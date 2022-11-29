@@ -62,4 +62,5 @@
 
 ## Week 10
 
-*28/11/2022 [7 hours] Finished CLS binary classification and started entity tag classification, added comments to colab notebook
+* 28/11/2022 [7 hours] Finished CLS binary classification and started entity tag classification, added comments to colab notebook
+* 29/11/2022 [3 hours] Started writing progress report and meeting with supervisor 
