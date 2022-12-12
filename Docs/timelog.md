@@ -70,3 +70,7 @@
 * 05/12/2022 [3 hours] Figuring out how to get the labels for entity tag binary classification
 * 07/12/2022 [7 hours] Looking at dissertation template and establishing entity tag labels
 * 08/12/2022 [5 hours] Debugging entity labelling code and solving the 512 token issue
+
+## Week 12
+
+* 12/12/2022 [7 hours] Finishing progress report and debugging 
