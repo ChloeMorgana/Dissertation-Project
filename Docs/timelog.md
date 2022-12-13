@@ -74,3 +74,4 @@
 ## Week 12
 
 * 12/12/2022 [7 hours] Finishing progress report and debugging 
+* 13/12/2022 [7 hours] Running corpus, writing dissertation and debugging
