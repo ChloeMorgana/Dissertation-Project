@@ -75,3 +75,9 @@
 
 * 12/12/2022 [7 hours] Finishing progress report and debugging 
 * 13/12/2022 [8 hours] Running corpus, writing dissertation and debugging
+* 14/12/2022 [2 hours] Writing introduction of dissertation
+* 15/12/2022 [7 hours] Debugging entity label code, writing dissertation
+
+# Christmas Period
+
+* 21/12/2022 [8 hours] Debugging
