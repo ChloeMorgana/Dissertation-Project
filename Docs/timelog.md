@@ -80,4 +80,4 @@
 
 # Christmas Period
 
-* 21/12/2022 [8 hours] Debugging
+* 21/12/2022 [7 hours] Writing dissertation and debugging

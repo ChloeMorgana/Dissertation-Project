@@ -17,7 +17,7 @@
 ## Week 4
 * 18/10/22 [20 mins]
     * I asked Jake about formatting the dataset into a pandas dataframe given a number of nested dictionaries. We discussed the pros and cons of using pandas to format data in a nice way. It tends to be good in a more general sense, however it doesn't provide much benefit to the specific requirements of this task.
-    * I asked Jake for more information about the differences between BioBERT and PubMedBERT, and he explained that BioBERT was pretrained using generic data from the English language, then fine-tuned using PubMed articles, whilst PubMedBERT was pretrained and fine-tuned using PubMed atricles.
+    * I asked Jake for more information about the differences between BioBERT and PubMedBERT, and he explained that BioBERT was pretrained using generic data from the English language, then fine-tuned using PubMed articles, whilst PubMedBERT was pretrained and fine-tuned using PubMed articles.
     * I then asked about whether or not I should use PubMedBERT pretrained on abstracts or the entire text. He said that the abstract version might be good because it might pick up on language specific to abstracts, however the full text may provide more context overall and to experiment.
     * Jake then advised me to be aware of how the tensors change size depending on the number of input dimensions.
 
