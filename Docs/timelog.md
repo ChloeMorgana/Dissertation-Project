@@ -83,3 +83,4 @@
 * 21/12/2022 [7 hours] Writing dissertation and debugging
 * 22/12/2022 [6 hours] Writing more dissertation, making hardly any progress debugging :(
 * 26/12/2022 [6 hours] Writing dissertation and debugging (Progress this time)
+* 27/12/2022 [5 hours] Multi-class classification for both architectures, and writing dissertation
