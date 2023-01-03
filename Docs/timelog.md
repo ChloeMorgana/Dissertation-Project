@@ -85,3 +85,4 @@
 * 26/12/2022 [6 hours] Writing dissertation and debugging (Progress this time)
 * 27/12/2022 [5 hours] Multi-class classification for both architectures, and writing dissertation
 * 02/01/2023 [5 hours] Writing the background section of the dissertation
+* 03/01/2023 [5 hours] Writing various sections of dissertation
