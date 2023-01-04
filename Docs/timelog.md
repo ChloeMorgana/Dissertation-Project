@@ -86,3 +86,4 @@
 * 27/12/2022 [5 hours] Multi-class classification for both architectures, and writing dissertation
 * 02/01/2023 [5 hours] Writing the background section of the dissertation
 * 03/01/2023 [5 hours] Writing various sections of dissertation
+* 04/01/2023 [4 hours] Adding references and adding to sections of dissertation

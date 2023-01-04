@@ -2,6 +2,7 @@
 * I did some debugging for my classifiers
 * I wrote the introduction and parts of other sections for my dissertation.
 * I wrote the code for the multiclass classification section.
+* You can view my overleaf dissertation template [here](https://www.overleaf.com/read/sffzvhfckzyd)
 
 # Findings
 * The F1 score for CLS binary classification increased from 0.69 to 0.84. The issue I was having was that some of my tags weren't separated by whitespace, so they weren't picked up by the tokenizer. This meant that the labels weren't assigned to the correct entities.
