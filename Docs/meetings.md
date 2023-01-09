@@ -58,3 +58,12 @@
     * This week primarily focused on issues with the tokenizer, which mostly boiled down to different behaviours stemming from different types of tokenizers and models.
     * I also asked Jake when I need to give him the progress report by and he said by Christmas.
     * I updated him with my progress and informed him that I now have a functional pipeline.
+
+# Week 13
+* 09/01/2023 [30 mins]
+    * This week primarily involved admin regarding the structure of our meetings and approach to dissertation writing this semester.
+    * I asked Jake about implementing dropout and he said to do some research on which layer the dropout is acting on and how to implement it with BERT
+    * I asked if what I intend to implement is enough and he said that it's more than enough
+    * He said to make sure that I reference where I got images from within my dissertation.
+    * When I brought up potentially trying marking/masking he said he was very interested in the idea of using entity masking as a form of dropout, and that it could potentially be something that I investigate in my implementation.
+    * In terms of the structure of my dissertation, he suggested that I merged the analysis and design sections and create a section that proposes a set of research questions that can be analysed further.

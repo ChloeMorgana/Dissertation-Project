@@ -27,3 +27,4 @@
 * Is it ok if I use the diagrams from other papers if I reference them or should I just create my own?
 * Are comparing architectures, entity marking/masking and applying dropout sufficient enough or do I need to come up with more things to compare? 
 * What should I do about entities that are labelled across sentences?
+* How crazy am I to go with the slides for Friday?
