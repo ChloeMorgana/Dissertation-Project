@@ -90,4 +90,6 @@
 
 # Week 13
 
-* 09/01/2023 [n hours] Meeting with supervisor, update meeting report, adjust diss structure
+* 09/01/2023 [7 hours] Meeting with supervisor, update meeting report, adjust diss structure
+* 10/01/2023 [3 hours] Work on Analysis section of dissertation and make presentation
+* 11/01/2023 [7 hours] Run code and investigate embedding-label discrepancy, add dropout, write dissertation
