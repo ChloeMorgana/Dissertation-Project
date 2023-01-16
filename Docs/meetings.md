@@ -67,3 +67,9 @@
     * He said to make sure that I reference where I got images from within my dissertation.
     * When I brought up potentially trying marking/masking he said he was very interested in the idea of using entity masking as a form of dropout, and that it could potentially be something that I investigate in my implementation.
     * In terms of the structure of my dissertation, he suggested that I merged the analysis and design sections and create a section that proposes a set of research questions that can be analysed further.
+
+# Week 14
+* 16/01/2023 [10 mins]
+    * This week focussed on class imbalance solutions. I expressed concern about the results of my classifier, stating that it had mostly classified everything as having no relation since that was the case the majority of the time.
+    * Potential solutions include adjusting the logistic regression class_weight parameter to 'balanced', or to perform data resampling.
+    * I also asked about my method of using logistic regression twice to find the intended results, and he said that it could potentially manifest into an additional research question to put into my report.
