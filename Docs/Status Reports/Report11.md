@@ -7,7 +7,7 @@
 * Initial difference of 32 between embeddings and labels
 * I read up more about dropout with BERT and it would seem that dropout applies to all layers of BERT, with default probability of 0.1
 * Bert has two dropout parameters: attention_probs_dropout_prob which applies dropout to BERT's attention layers and hidden_dropout_prob, which applies to all of BERT's hidden layers.
-* According to the paper above, performance tends to degrade with dropout probabilities past 0.6.
+* According to the paper above, performance tends to degrade with dropout probabilities past 0.6, though I read that apparently the most effective parameters lie between 0.5 and 0.8.
 * The difference in embeddings and labels for the development set is only 4 (4 more labels)
 
 # Questions

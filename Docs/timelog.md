@@ -94,4 +94,10 @@
 * 10/01/2023 [3 hours] Work on Analysis section of dissertation and make presentation
 * 11/01/2023 [7 hours] Run code and investigate embedding-label discrepancy, add dropout, write dissertation
 * 12/01/2023 [3 hours] Writing background section of dissertation
-* 13/01/2023 [6 hours] Writing background, debbugging development set
+* 13/01/2023 [6 hours] Writing background, debugging development set
+
+# Week 14
+
+* 16/01/2023 [7 hours] Supervisor meeting, writing dissertation, writing meeting report
+* 18/01/2023 [5 hours] Fully completing CLS pipeline, writing evaluation section 
+* 19/01/2023 [2 hours] Researching CLS embeddings and writing about them

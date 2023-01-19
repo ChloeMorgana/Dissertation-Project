@@ -12,7 +12,7 @@
 
 
 ## Progress
-* Investigated different relation extraction methods.
+* Background research on different relation extraction methods.
 * Investigated different datasets.
 * Decided on using Python and HuggingFace transformers.
 * Decided on using the DrugProt dataset and researched previous implementations.
