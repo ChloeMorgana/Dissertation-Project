@@ -73,3 +73,8 @@
     * This week focussed on class imbalance solutions. I expressed concern about the results of my classifier, stating that it had mostly classified everything as having no relation since that was the case the majority of the time.
     * Potential solutions include adjusting the logistic regression class_weight parameter to 'balanced', or to perform data resampling.
     * I also asked about my method of using logistic regression twice to find the intended results, and he said that it could potentially manifest into an additional research question to put into my report.
+
+# Week 15
+* 23/01/2023 [20 mins]
+    * The theme of this meeting was the structure of the dissertation. I was asking about how thorough I needed to be with the background section in terms of the explanation of concepts, and he said that it would be best to explain as much as possible and emphasise the link to the motivation and reasoning behind why certain parts have been explored.
+    * I then asked how long I need to make the presentation and what I need to include.

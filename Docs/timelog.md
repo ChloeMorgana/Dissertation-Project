@@ -101,3 +101,7 @@
 * 16/01/2023 [7 hours] Supervisor meeting, writing dissertation, writing meeting report
 * 18/01/2023 [5 hours] Fully completing CLS pipeline, writing evaluation section 
 * 19/01/2023 [2 hours] Researching CLS embeddings and writing about them
+
+# Week 15
+
+* 23/01/2023 [6 hours] Supervisor meeting, writing up analysis section
