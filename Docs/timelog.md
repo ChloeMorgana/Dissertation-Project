@@ -104,4 +104,5 @@
 
 # Week 15
 
-* 23/01/2023 [6 hours] Supervisor meeting, writing up analysis section
+* 23/01/2023 [6 hours] Supervisor meeting, writing up analysis section, setting up project on Fidra
+* 24/01/2023 [5 hours] Debugging
