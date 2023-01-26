@@ -105,4 +105,5 @@
 # Week 15
 
 * 23/01/2023 [6 hours] Supervisor meeting, writing up analysis section, setting up project on Fidra
-* 24/01/2023 [5 hours] Debugging
+* 25/01/2023 [5 hours] Debugging
+* 26/01/2023 [2 hours] Merging analysis and design sections of dissertation
