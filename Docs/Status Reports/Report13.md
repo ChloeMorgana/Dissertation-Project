@@ -7,7 +7,7 @@
 * (Binary Entity Tags): Precision: 0.82, recall: 0.78, f1-score: 0.79
 
 * (Multiclass CLS): Precision: 0.74, recall: 0.35, f1-score: 0.39
-* (Multiclass entity tags): Precision: 0.81 , recall: 0.56 , f1-score: 0.61
+* (Multiclass Entity tags): Precision: 0.81, recall: 0.56, f1-score: 0.61
 
 * Seems to be a significant improvement using entity embeddings compared to cls embeddings
 * Still a class imbalance issue though
