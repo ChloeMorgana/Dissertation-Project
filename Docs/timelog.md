@@ -112,3 +112,4 @@
 # Week 16
 
 * 29/01/2023 [3 hours] Refactored implementation
+* 30/01/2023 [2 hours] Re-running code and collecting resultss
