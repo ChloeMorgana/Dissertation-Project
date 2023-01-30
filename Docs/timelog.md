@@ -106,4 +106,9 @@
 
 * 23/01/2023 [6 hours] Supervisor meeting, writing up analysis section, setting up project on Fidra
 * 25/01/2023 [5 hours] Debugging
-* 26/01/2023 [2 hours] Merging analysis and design sections of dissertation
+* 26/01/2023 [3 hours] Merging analysis and design sections of dissertation
+* 27/01/2023 [2 hours] Running the corpuses and writing dissertation
+
+# Week 16
+
+* 29/01/2023 [3 hours] Refactored implementation
