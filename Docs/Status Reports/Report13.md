@@ -1,6 +1,7 @@
 # Work Done
 * Did some more debugging
 * Refactored my code so now it's a lot better and (hopefully) functions as anticipated.
+* Merged the analysis and design 
 
 # Findings
 * (Binary CLS): Precision: 0.75, Recall: 0.69, f1-score: 0.7

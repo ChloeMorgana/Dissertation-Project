@@ -78,3 +78,10 @@
 * 23/01/2023 [20 mins]
     * The theme of this meeting was the structure of the dissertation. I was asking about how thorough I needed to be with the background section in terms of the explanation of concepts, and he said that it would be best to explain as much as possible and emphasise the link to the motivation and reasoning behind why certain parts have been explored.
     * I then asked how long I need to make the presentation and what I need to include.
+
+# Week 16
+* 30/01/2023 [20 mins]
+    * I asked about whether or not I should create my own masked entities to represent each chemical or gene or just use a default mask. Jake said to start with the default one since BERT can recognise that one more easily.
+    * I then asked about what I could use the validation set for and he said to change parameters for logistic regression, in particular the c parameter which performs regularisation.
+    * I asked about a bonus section for the dissertation and he said to combine the design and implmentation sections
+    * Finally, I asked about how terrible my values can be to still be acceptable, and he said that as long as the results aren't too extreme e.g. 0.0 or 0.99, then they are acceptable.
