@@ -4,7 +4,9 @@
 
 # Findings
 * (Multiclass CLS): Precision: 0.74, recall: 0.35, f1-score: 0.39
-* (Multiclass entity tags): Precision: , recall: , f1-score:
+* (Multiclass entity tags): Precision: 0.81 , recall: 0.56 , f1-score: 0.61
+* Seems to be a significant improvement using entity embeddings compared to cls embeddings
+* Still a class imbalance issue though
 
 # Questions
 * For entity masking is it typical to use the same token to replace both entities e.g. [MASK] or a different one for each e.g. [CHEM] ,[GENE]?
