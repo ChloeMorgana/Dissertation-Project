@@ -115,3 +115,7 @@
 * 30/01/2023 [7 hours] Re-running code and collecting results, supervisor meeting, writing dissertation
 * 31/01/2023 [5 hours] Researching BERT fine-tuning, writing dissertation
 * 04/02/2023 [5 hours] Writing background section of dissertation
+
+# Week 17 
+
+* 05/02/2023 [] Reading research papers and writing more dissertation
