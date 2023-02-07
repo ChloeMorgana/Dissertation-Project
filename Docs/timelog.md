@@ -118,4 +118,5 @@
 
 # Week 17 
 
-* 05/02/2023 [] Reading research papers and writing more dissertation
+* 05/02/2023 [1 hour] Reading research papers and writing more dissertation
+* 07/02/2023 [6 hours] Entity masking implementation and writing more dissertation
