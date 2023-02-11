@@ -121,3 +121,4 @@
 * 05/02/2023 [1 hour] Reading research papers and writing more dissertation
 * 07/02/2023 [6 hours] Entity masking implementation and writing more dissertation
 * 08/02/2023 [4 hours] Writing dissertation, implementing linear layer
+* 11/02/2023 [4 hours] Writing dissertation
