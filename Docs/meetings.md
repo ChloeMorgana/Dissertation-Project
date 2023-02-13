@@ -85,3 +85,10 @@
     * I then asked about what I could use the validation set for and he said to change parameters for logistic regression, in particular the c parameter which performs regularisation.
     * I asked about a bonus section for the dissertation and he said to combine the design and implmentation sections
     * Finally, I asked about how terrible my values can be to still be acceptable, and he said that as long as the results aren't too extreme e.g. 0.0 or 0.99, then they are acceptable.
+    
+# Week 18
+* 13/02/2023 [20 mins]
+    * This week I expressed that I wanted to create an end-to-end system to compare with my existing results.
+    * I asked Jake for recommendations regarding resources I could use to assist me in implementing fine-tuning for BERT, since the majority of the ones I found seemed unecessarily complex.
+    * Jake sent me a number of resources to assist me in this endeavour, including HuggingFace special task outputs and custom heads.
+    * Another 
