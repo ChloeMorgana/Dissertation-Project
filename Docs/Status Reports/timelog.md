@@ -126,3 +126,6 @@
 # Week 18
 * 13/02/2023 [7 hours] Implementing fine-tuning, supervisor meeting
 * 15/02/2023 [7 hours] Implementing fine-tuning, debugging
+
+# Week 19
+* 19/02/2023 [4 hours] Debugging
