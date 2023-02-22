@@ -91,4 +91,11 @@
     * This week I expressed that I wanted to create an end-to-end system to compare with my existing results.
     * I asked Jake for recommendations regarding resources I could use to assist me in implementing fine-tuning for BERT, since the majority of the ones I found seemed unecessarily complex.
     * Jake sent me a number of resources to assist me in this endeavour, including HuggingFace special task outputs and custom heads.
-    * Another 
+    * Another resource he sent was on HuggingFace's Trainer, which provides an abstraction of the process of fine-tuning so it is less complicated to implement.
+
+# Week 19 
+* 20/02/2023 [20 mins]
+    * This week I talked to Jake about issues I was having implementing fine-tuning. I was having different memory problems depending on which platform I was hosting my code on.
+    * Jake said it is possible that my code was having memory problems, but it could also be the number of students implementing their projects on Fidra simultaneously.
+    * Jake advised me that it might be best to abandon this part of the project since it might be a bit late to be able to implement it on time.
+
