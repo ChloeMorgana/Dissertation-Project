@@ -130,3 +130,5 @@
 # Week 19
 * 19/02/2023 [4 hours] Debugging
 * 20/02/2023 [7 hours] Writing dissertation, debugging, supervisor meeting
+* 22/02/2023 [4 hours] Obtaining results and writing about them, updating meetings
+* 25/02/2023 [8 hours] Writing dissertation, making next status report
