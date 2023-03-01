@@ -132,3 +132,6 @@
 * 20/02/2023 [7 hours] Writing dissertation, debugging, supervisor meeting
 * 22/02/2023 [4 hours] Obtaining results and writing about them, updating meetings
 * 25/02/2023 [8 hours] Writing dissertation, making next status report
+
+# Week 20
+* 27/02/2023 [6 hours] Making notes for each dissertation section, writing dissertation

@@ -10,3 +10,4 @@
 # Questions
 * When would be the best time to be able to get you to proofread my dissertation before the deadline?
 * I'm testing several fixed-length representations with different dropout levels etc. and it's resulting in me having not very pleasing tables. Are there any aesthetically pleasing data visualisation methods you can recommend?
+* How in-depth should I go with the methods/analysis? I'm finding myself explicitly describing the structure of the dataset.
