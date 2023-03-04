@@ -99,3 +99,11 @@
     * Jake said it is possible that my code was having memory problems, but it could also be the number of students implementing their projects on Fidra simultaneously.
     * Jake advised me that it might be best to abandon this part of the project since it might be a bit late to be able to implement it on time.
 
+# Week 20
+* 02/03/2023 [20 mins]
+    * This week I asked Jake about questions regarding my dissertation write-up.
+    * I asked when he would like the first draft by and he said the 13th of March.
+    * I also asked how in depth I need to go when explaining the processes of my implementation, and he said to go fairly in depth, but to avoid getting to the point where I'm explaining specific methods within my code.
+    * I also asked him how in depth I should go within my background section, and he said enoough that is relevant to my task, and I should specify the pros and cons of each paper.
+    * He also said to include diagrams within my dissertation, as they can help elucidate key concepts to the reader.
+

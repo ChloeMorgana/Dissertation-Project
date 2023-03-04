@@ -135,3 +135,5 @@
 
 # Week 20
 * 27/02/2023 [6 hours] Making notes for each dissertation section, writing dissertation
+* 01/03/2023 [8 hours] Making diagrams and writing dissertation
+* 04/03/2023 [9 hours] Writing background section of dissertation
