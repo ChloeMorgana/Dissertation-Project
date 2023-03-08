@@ -137,3 +137,7 @@
 * 27/02/2023 [6 hours] Making notes for each dissertation section, writing dissertation
 * 01/03/2023 [8 hours] Making diagrams and writing dissertation
 * 04/03/2023 [9 hours] Writing background section of dissertation
+
+# Week 21
+* 06/03/2023 [9 hours] Finishing iteration of background, writing method section.
+* 08/03/2023 [9 hours] Supervisor meeting, gathering values, writing dissertation

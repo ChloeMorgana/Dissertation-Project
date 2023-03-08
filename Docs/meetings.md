@@ -107,3 +107,11 @@
     * I also asked him how in depth I should go within my background section, and he said enoough that is relevant to my task, and I should specify the pros and cons of each paper.
     * He also said to include diagrams within my dissertation, as they can help elucidate key concepts to the reader.
 
+# Week 21
+* 08/03/2023 [20 mins]
+    * I asked about how strict the page count is, and Jake said that he's not expecting me to write an entire 40 pages, and that somewhere around the early 30's is acceptable.
+    * I then asked if 8 pages was too much for my background section, and he said that it might be a little bit too much, but it's dependent on the content.
+    * I asked him about whether implementation issues could be included in the dissertation, and he said yes
+    * He then told me that for my presentation I should explain the motivation in depth.
+
+
