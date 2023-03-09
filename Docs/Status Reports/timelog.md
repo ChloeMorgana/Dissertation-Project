@@ -141,3 +141,4 @@
 # Week 21
 * 06/03/2023 [9 hours] Finishing iteration of background, writing method section.
 * 08/03/2023 [9 hours] Supervisor meeting, gathering values, writing dissertation
+* 09/03/2023 [7 hours] Writing dissertation, gathering values
