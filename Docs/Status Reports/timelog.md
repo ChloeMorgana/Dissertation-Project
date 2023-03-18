@@ -142,3 +142,11 @@
 * 06/03/2023 [9 hours] Finishing iteration of background, writing method section.
 * 08/03/2023 [9 hours] Supervisor meeting, gathering values, writing dissertation
 * 09/03/2023 [7 hours] Writing dissertation, gathering values
+* 10/03/2023 [2 hours] Rewriting parts of background section
+* 11/03/2023 [8 hours] Writing up dissertation
+
+# Week 22
+* 12/03/2023 [7 hours] Making graphs and writing evaluation
+* 13/03/2023 [8 hours] Finish off first draft
+* 16/03/2023 [9 hours] Implementing grid search, write discussion, making presentation
+* 17/03/2023 [9 hours] Finishing runs for dropout, editing diss, making presentation
