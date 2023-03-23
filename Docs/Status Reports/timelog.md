@@ -150,3 +150,11 @@
 * 13/03/2023 [8 hours] Finish off first draft
 * 16/03/2023 [9 hours] Implementing grid search, write discussion, making presentation
 * 17/03/2023 [9 hours] Finishing runs for dropout, editing diss, making presentation
+* 18/03/2023 [6 hours] Improving evaluation, running tests
+* 19/03/2023 [6 hours] Writing dissertation
+
+# Week 23
+* 20/03/2023 [6 hours] Finishing collection of values, writing discussion
+* 21/03/2023 [9 hours] Finishing dissertation
+* 22/03/2023 [9 hours] Do presentation
+* 23/03/2023 [] Finish EVERYTHING
