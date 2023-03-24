@@ -157,4 +157,4 @@
 * 20/03/2023 [6 hours] Finishing collection of values, writing discussion
 * 21/03/2023 [9 hours] Finishing dissertation
 * 22/03/2023 [9 hours] Do presentation
-* 23/03/2023 [] Finish EVERYTHING
+* 23/03/2023 [10 hours] Finish and record presentation
